@@ -29,7 +29,9 @@ const NavBar = () => {
               <Nav.Link href="#projects" className="nav_item">
                 Projects
               </Nav.Link>
-
+              <Nav.Link href="#achieved" className="nav_item">
+                Achieved
+              </Nav.Link>
               <Nav.Link href="#contact" className="nav_item">
                 Contact
               </Nav.Link>

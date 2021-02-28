@@ -7,7 +7,7 @@ const myProjects = [
     image: "/images/yourstory.png",
     title: "Yourstory Clone",
     description:
-      " The goal of this is to build an end-to-end clone of a yourstory website in which users can see and also create the post-story.",
+      "A website that provides the latest news and related stories on Indian startups.",
     source: "https://github.com/vikash93825/Yourstory-clone",
     demoLink: "https://yourstory-clone.netlify.app/",
   },
@@ -15,9 +15,17 @@ const myProjects = [
     image: "/images/instagram.png",
     title: "Instagram Clone",
     description:
-      "The goal of this project is to build an end-to-end clone of Social media website in which users can see and comment on other users.",
+      "A social media website where users can see and comment on the post and post their own content.",
     source: "https://github.com/MahenParameshwar/Instagram-Clone-React",
     demoLink: "https://instagram-cloned-app.netlify.app/login",
+  },
+  {
+    image: "/images/db.png",
+    title: "Quiz DB",
+    description:
+      "A Web quiz app for conducting quizzes and easy management of results.",
+    source: "https://github.com/vikash93825/masai-sprint-3",
+    demoLink: "https://vikash93825.github.io/masai-sprint-3/",
   },
 ];
 
