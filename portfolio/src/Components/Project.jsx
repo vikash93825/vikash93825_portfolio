@@ -31,9 +31,17 @@ const myProjects = [
     image: "/images/trello.png",
     title: "Trello Task",
     description:
-      "A web application for users to manage their tasks and add and edit tasks.",
+      "A web application for users to manage their tasks, add and edit the tasks.",
     source: "https://github.com/vikash93825/trello-app",
     demoLink: "https://trello-task.netlify.app/",
+  },
+  {
+    image: "/images/bookShop.png",
+    title: "Book Shop",
+    description:
+      "A web book app where users can see a list of all books and add the book to the cart.",
+    source: "https://github.com/vikash93825/ECS-project",
+    demoLink: "https://bookapplist.netlify.app/",
   }
 ];
 

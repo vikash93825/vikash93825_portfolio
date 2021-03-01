@@ -11,7 +11,7 @@ const About = () => {
       <div className="container">
         <Row className="">
           <Col className="p-0 text-center" md={5}>
-            <img className="about-img" src="../images/vikash.JPG" alt=""  />
+            <img className="about-img" src="../images/vikash.JPG" alt="" />
           </Col>
           <Col className="" md={7}>
             <div className="about-info">
@@ -19,10 +19,11 @@ const About = () => {
                 <span className="chonburi-font green-text ">Abo</span>ut Me
               </h1>
               <p className="">
-                I am a full-time coder molded and shaped by Masai School. With
-                time coding has become a huge part of my life and I am
-                determined to push relevant codes on GitHub every day. I love to
-                take on new projects and learn new things as it satisfies me.
+                I am a full-time coder molded and shaped by Massai school. I
+                love to spend most of the time in coding and working on
+                different projects. I love to work on challenging projects as it
+                gives me a new way to learn new skills and makes me a better
+                developer.
               </p>
               <div className="d-flex align-items-center resume-section ">
                 <h6>Resume :</h6>
