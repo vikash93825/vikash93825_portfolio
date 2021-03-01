@@ -27,6 +27,14 @@ const myProjects = [
     source: "https://github.com/vikash93825/masai-sprint-3",
     demoLink: "https://vikash93825.github.io/masai-sprint-3/",
   },
+  {
+    image: "/images/trello.png",
+    title: "Trello Task",
+    description:
+      "A web application for users to manage their tasks and add and edit tasks.",
+    source: "https://github.com/vikash93825/trello-app",
+    demoLink: "https://trello-task.netlify.app/",
+  }
 ];
 
 const Project = () => {
