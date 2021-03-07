@@ -126,14 +126,14 @@ const Achieved = () => {
 
     <div className="offset-2 col-4 offset-md-2 col-md-2 mb-4">
         <div style={{border:"solid #128397 10px", height:"100px", width:"100px"}} className="rounded-circle mx-auto">
-            <h4 className="mt-3 p-2">1500+</h4>
+            <h4 className="mt-3 p-2">1200+</h4>
         </div><br/>
         <h5>Hour of Hands on Coding</h5>
     </div>
 
     <div className="col-4 col-md-2 mb-4">
         <div style={{border:"solid #128397 10px", height:"100px", width:"100px"}} className="rounded-circle mx-auto">
-            <h4 className="mt-3 p-2">500+</h4>
+            <h4 className="mt-3 p-2">550+</h4>
         </div><br/>
         <h5>Commits</h5>
     </div>
