@@ -37,6 +37,16 @@ const skills = [
     id:"7",
     logo: "/images/redux.png",
     name: "Redux",
+  },
+  {
+    id:"8",
+    logo: "/images/Mlogo.png",
+    name: "MaterialUI",
+  },
+  {
+    id:"9",
+    logo: "/images/mongodb.png",
+    name: "MongoDB",
   }
 ];
 
