@@ -42,6 +42,14 @@ const myProjects = [
       "A web book app where users can see a list of all books and add the book to the cart.",
     source: "https://github.com/vikash93825/ECS-project",
     demoLink: "https://bookapplist.netlify.app/",
+  },
+  {
+    image: "/images/expense.png",
+    title: "Expense Manager",
+    description:
+      "It is an application that helps you manage and track your daily expenses.",
+    source: "https://github.com/vikash93825/Expense_project",
+    demoLink: "https://expense-project.netlify.app/index.html"
   }
 ];
 

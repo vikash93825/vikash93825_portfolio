@@ -48,8 +48,8 @@ const About = () => {
                       <h5>Masai School</h5>
                       <ul>
                         <li className="text-justify">
-                          Completed (HTML5, CSS, JavaScript, React, Redux.)
-                          Training from Masai School, Bangalore.
+                          Completed (HTML5, CSS, JavaScript, React, Redux,
+                          MongoDB.) Training from Masai School, Bangalore.
                         </li>
                       </ul>
                     </div>
@@ -57,8 +57,8 @@ const About = () => {
                       <h5>B.tech</h5>
                       <ul>
                         <li className="text-justify">
-                          Graduated in Information Technology engineering from
-                          Haldia institute of Technology in 2020.
+                          Graduated in Information Technology from Haldia
+                          institute of Technology in 2020.
                         </li>
                       </ul>
                     </div>
